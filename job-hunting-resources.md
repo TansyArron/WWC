@@ -23,7 +23,7 @@ Know the running time and space complexity (Big O)
 Be able to implement a working version
 Be familiar with it's pro's and cons and optimizations, even if you can't implement them. eg: Quicksort can be improved by chosing the pivot at random, merge sort can be done back and forth between two arrays in order to save space.
 
-- **Datastructures **
+- **Datastructures**
 [Array](https://en.wikipedia.org/wiki/Array_data_structure)
 [Linked List](https://en.wikipedia.org/wiki/Linked_list)
 [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
