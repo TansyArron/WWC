@@ -89,7 +89,7 @@ Make sure your code is somewhere potential employers can see it. If you're not o
 - You'll meet engineers who work for that company you really want to work for
 - You'll get code review so you can continue to improve
 
-- **How to choose an OSS project to work on**
+**How to choose an OSS project to work on**
 
 When chosing an OSS project, you'll want something that:
 
@@ -103,9 +103,9 @@ For projects that fulfil this criteria, and which are also out to do good in the
 
 If there is a company you particularly want to work at, check out their GitHub or company site to see if they have open source projects you can contribute to.
 
-- **[Outreachy](https://www.gnome.org/outreachy/)** Outreachy helps people from groups underrepresented in free and open source software get involved. They provide a supportive community for beginning to contribute any time throughout the year and offer focused internship opportunities twice a year with a number of free software organizations.
+**[Outreachy](https://www.gnome.org/outreachy/)** Outreachy helps people from groups underrepresented in free and open source software get involved. They provide a supportive community for beginning to contribute any time throughout the year and offer focused internship opportunities twice a year with a number of free software organizations.
 
-- **[Google Summer of Code](https://www.google-melange.com/gsoc/homepage/google/gsoc2015)** Is similar to Outreachy, but requires that you are a full or part time college student.
+**[Google Summer of Code](https://www.google-melange.com/gsoc/homepage/google/gsoc2015)** Is similar to Outreachy, but requires that you are a full or part time college student.
 
 # Networking
 
