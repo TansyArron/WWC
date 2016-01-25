@@ -103,16 +103,16 @@ For projects that fulfil this criteria, and which are also out to do good in the
 
 If there is a company you particularly want to work at, check out their GitHub or company site to see if they have open source projects you can contribute to.
 
-**[Outreachy](https://www.gnome.org/outreachy/)** Outreachy helps people from groups underrepresented in free and open source software get involved. They provide a supportive community for beginning to contribute any time throughout the year and offer focused internship opportunities twice a year with a number of free software organizations.
+**[Outreachy](https://www.gnome.org/outreachy/)** helps people from groups underrepresented in free and open source software get involved. They provide a supportive community for beginning to contribute any time throughout the year and offer focused internship opportunities twice a year with a number of free software organizations.
 
-**[Google Summer of Code](https://www.google-melange.com/gsoc/homepage/google/gsoc2015)** Is similar to Outreachy, but requires that you are a full or part time college student.
+**[Google Summer of Code](https://www.google-melange.com/gsoc/homepage/google/gsoc2015)** is similar to Outreachy in offerring paid internships for working on OSS, but requires that you are a full or part time college student, and is open to all, not just under represented groups.
 
 # Networking
 
 Networking is the best way to get your foot in the door. If you did CS at college or in a boot camp, you can use your schools network to find a job. If you're self taught, you're going to have to buid your own.
-	- Ask your programmer friends and aquaintences if they know anyone that's hiring, or if they can forward you their recruiter spam.
-	- Meetups are a good place to meet people, though many of the attendees may be just starting out and building their own networks. 
-	- Work on an open source project and get to know developers that way.
+- Ask your programmer friends and aquaintences if they know anyone that's hiring, or if they can forward you their recruiter spam.
+- Meetups are a good place to meet people, though many of the attendees may be just starting out and building their own networks. 
+- Work on an open source project and get to know developers that way.
 
 
 
